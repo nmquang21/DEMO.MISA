@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEMO.MISA", "DEMO.MISA\DEMO.MISA.csproj", "{6C8D832C-43B4-4246-B5F4-31B4F7616151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8D832C-43B4-4246-B5F4-31B4F7616151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8D832C-43B4-4246-B5F4-31B4F7616151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8D832C-43B4-4246-B5F4-31B4F7616151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8D832C-43B4-4246-B5F4-31B4F7616151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7722932-F098-4508-B115-96815EC4B631}
+	EndGlobalSection
+EndGlobal
